@@ -1,0 +1,1 @@
+This application is a self-hosted, local-only client utility. All health data retrieved from FHIR endpoints is processed and stored locally on the user's machine and is never transmitted to external third-party servers.
